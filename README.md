@@ -1,4 +1,4 @@
-# Excel-Sales-and-finance-Analyrics
+# Excel-Sales-and-finance-Analytics
 Sales Report :
 
 Project objective:
